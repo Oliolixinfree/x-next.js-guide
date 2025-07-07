@@ -18,4 +18,8 @@ export const MENU = [
         href: PAGES.PROFILE_FAKE,
         name: 'ProfileFake',
     },
+    {
+        href: PAGES.SHOP,
+        name: 'Shop',
+    },
 ]
